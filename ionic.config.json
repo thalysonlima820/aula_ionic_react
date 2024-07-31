@@ -1,7 +1,10 @@
 {
-  "name": "myApp",
+  "name": "AppLogin",
   "integrations": {
     "capacitor": {}
   },
-  "type": "react-vite"
+  "type": "react-vite",
+  "server": {
+    "port": 8102
+  }
 }
